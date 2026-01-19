@@ -1,1 +1,4 @@
 I used fetch with async/await to get word data from an external dictionary API. The page updates dynamically without reloading, which makes it a Single Page Application. I also added basic error handling and used JavaScript to update styles when a word is saved.
+I would've liked to add a word search history feature as well as change the color scheme to black and purple. 
+Other features I would've wanted to add are a pronunciation feature that shows the user how to pronounce different words as well as an etymology and synonyms and antonyms for various words.
+Additionally I considered adding adjectives that could be made from various nouns. 
