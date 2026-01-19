@@ -1,0 +1,1 @@
+I used fetch with async/await to get word data from an external dictionary API. The page updates dynamically without reloading, which makes it a Single Page Application. I also added basic error handling and used JavaScript to update styles when a word is saved.
